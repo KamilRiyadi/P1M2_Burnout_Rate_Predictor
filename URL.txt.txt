@@ -1,0 +1,2 @@
+URL Backend : https://kamil-riyadi-ftds-009-p1m2.herokuapp.com/
+URL Frontend: https://kamil-burnrate-p1m2.herokuapp.com/
